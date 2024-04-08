@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ForzenFire
+- 👋 Hi, I’m @KavinduDilshan
 - 👀 I’m interested in learning programming lanuages
 - 🌱 I’m currently undergraduate student in Software Engineering
 - 💞️ I’m looking to collaborate on projects that improve me.
